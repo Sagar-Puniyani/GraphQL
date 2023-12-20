@@ -7,7 +7,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "dev" : "node index.js"
+    "dev" : "node app.js"
   },
   "dependencies": {
     "@apollo/server": "^4.9.5",
